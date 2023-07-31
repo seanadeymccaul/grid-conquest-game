@@ -8,3 +8,6 @@
 
 <h2>Instructions</h2>
 <p>The source code is entirely contained within main.py and can be run using any Python3 capable IDE.</p>
+
+<h2>Gallery</h2>
+<img width="1404" alt="image" src="https://github.com/seanadeymccaul/grid-conquest-game/assets/103879392/d3ca2011-496e-442c-ad2c-4b08b4176a2b">
